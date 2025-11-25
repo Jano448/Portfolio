@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+#root {
+    height: 100vh;
+    display: flex;
+    background-color: burlywood ;
+}
+
+.main_2 {
+    border: 1px;
+    border-color: red;
+}
